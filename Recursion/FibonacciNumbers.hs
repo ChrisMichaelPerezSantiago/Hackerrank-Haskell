@@ -1,4 +1,4 @@
--- Problem:  Fibonacci Numbers in Haskell
+-- Problem:  Fibonacci Numbers
 -- @Author:  Chris M. Perez
 -- @Date:    4/17/2017
 
