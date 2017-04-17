@@ -5,7 +5,7 @@
 
 len :: [Int] -> Int
 len [] = 0
-len (x:xs) =  length(x:xs)
+len (x:xs) = length(x:xs)
 
 
 
