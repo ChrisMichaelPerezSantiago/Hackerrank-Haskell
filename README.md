@@ -1,1 +1,1 @@
-﻿# Hackerrank-Haskell
+# Hackerrank-Haskell
