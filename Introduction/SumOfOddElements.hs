@@ -2,7 +2,7 @@
 -- @Author:  Chris M. Perez
 -- @Date:    4/16/2017
 
-
+sumList :: [Int] -> Int
 sumList n  =  sum(filter odd n)
 
 main = do
